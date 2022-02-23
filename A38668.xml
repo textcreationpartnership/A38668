@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The establishements made by the Generall Assemblie mett at the Cittie of Kilkenny the 12. day of November anno Domini 1647</title>
+            <author>Ireland. General Assembly at Kilkenny.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38668</idno>
+            <idno type="STC">Wing E3345</idno>
+            <idno type="STC">ESTC R218215</idno>
+            <idno type="EEBO-CITATION">99829826</idno>
+            <idno type="PROQUEST">99829826</idno>
+            <idno type="VID">34271</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38668)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34271)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2027:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The establishements made by the Generall Assemblie mett at the Cittie of Kilkenny the 12. day of November anno Domini 1647</title>
+                  <author>Ireland. General Assembly at Kilkenny.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[Printed at Kilkenny :</pubPlace>
+                  <date>in the yeare of our Lord 1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Trinity College Library, Dublin.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:34271:1"/>
+            <head>THE ESTABLISHEMENTS MADE BY THE GENERALL ASSEMBLIE METT AT THE CITTIE OF KILKENNY THE 12. DAY OF NOVEMBER ANNO DOMINI 1647</head>
+            <p>THAT in regard the Army of the province of Leinſter conſiſts of eight regiments of foote and 25 Troopes of horſſe, and that by reaſon of the defeate of the ſaid forces, and reſtrainte of many of the officers, the ſaid Army, regiments, and Troopes, are ſoe weake as they are computed to be effectiue not aboue 4000 foote and 800 horſſe, And for as much as the ſaid prouince at this preſent beinge burthened with other ex<g ref="char:EOLhyphen"/>traordinary charges is much impoueriſhed and vnable to beare any more, dureinge this winter; It is therefore ordered that the ſaid Army shall conſiſt of 4000 foote and 800 horſſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> at leaſt vntill the firſt of March next, at which tyme the Su<g ref="char:EOLhyphen"/>preame Councell shall (if they ſee cauſe) reinforce the ſame vnto ſuch number as the ſaid Councell shall thinke neceſſary for the preſeruatio<g ref="char:cmbAbbrStroke">̄</g> of the ſaid prouince, prouided that noe more Companies, Regiments, or troopes, be raiſed as a charge vpon that Prouince, vntill the laſt of May next, but that the ſaid ould troopes, and Companies, be reinforced to ſuch number, as the Councell shall thinke neceſſary; And if the prouince be now charged, with any more foote or horſſe of the ſaid Army then the ſaid number, the Councel are by vnytinge of weak companies together, diſcharginge of vnſeruiceable Companies or Troopes, or houldinge ſuch as haue not performed theire Capitulations to the performance thereof, to reduce the ſaid
+<pb n="2" facs="tcp:34271:2"/>Charge vnto the ſaid number of 4000 foote and 800 hooſe if it may be don ſoe conueniently; and in regard that ſeuerall of the late recruted companies haue not yet appeared in the field, or were muſtered ſince the ſaid misfortune, whereby it is vncertaine of what number they conſiſt of, It is ordered that the ſaid Companies which did not appeere as aforeſaid or which were not muſtered, shall not be allowed more then fifty ſouldiers in each of theire Companies vntill the ſaid tyme of reinforcement, and the ſaid Councell are by muſters and other wiſe to cull out vnſeruiceable and vnarmed men from the Army and eaſe the prouince of theire charge, prouided that if more foote or horſe be found effictiue in the ſaid Army, that they shall be prouided for, to preuent the incurſions of the Enemy as alſo For the trayneing, Exerciſinge, and kee<g ref="char:EOLhyphen"/>pinge together the forces of this prouince, wherby they may be ready to defend theire Quaters, and offend the Enemy, It is ordered and eſtablished that the Army of the prouince shall be deuided into fower diuiſions or brigades, more or leſſe as the Councell shall thinke fitt conſiſting of horſſe and foote &amp; for each diuiſion or Partie an officer be appointed to Co<g ref="char:EOLhyphen"/>maund the ſame in chiefe</p>
+            <p>That vnto each of the ſaid diuiſions a headquarter shall be appointed where a Competent number of the ſaid Partie, both horſſe &amp; foote shall be garriſſoned in ſome conuenient &amp; ſecure place or ſtrait Frontinge the Enemys garriſſons.</p>
+            <p>That to each head-quarter ſeuerall other dependent garris<g ref="char:EOLhyphen"/>ſons shall be aſſigned where the reſidue of the diuiſion shall be garriſſoned &amp; Comaunded by any officer in each garriſſon and where they may be ready vpon all occaſions to come to releeue or reinforce the head Quarter accordinge as they shall be directed by the Comaunder of the ſaid diuiſion.</p>
+            <p>That for every head quarter a certaine proportion of Sho<g ref="char:EOLhyphen"/>wells, ſpades, pike axes and bill hookes be aſſigned, whereby they may fortifie the ſame and build Cottadges for their ha<g ref="char:EOLhyphen"/>bitations if they shall want it, and that a certayne proportion of amunition for the head garriſſons be likewiſe giuen vnto the Comaunder of the diuiſion,</p>
+            <p>That a way be ſettled whereby the ſaid whole partie or bri<g ref="char:EOLhyphen"/>gad vpon twenty foure howers warneing may ſpeed<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb n="3" facs="tcp:34271:2"/>come together in a boddie and whereby the Seuerall diuiſions may ioine together vpon conuenient Warneinge, by order from the Comaunder in chiefe of the whole Armie, or other wiſe as the Councell shall thinke neceſſary.</p>
+            <p>That the maintenance of the whole Armie be caſt vp whereof a proportion is to be put vpon euery County Which is to be applotted &amp; leauied monethly before hand in Corne, meale, and monney, or monny wholie at the lection of the payers, and that the proportion of each diuiſion thereof be ſett out towards its maintenance, which is to be receaued for them and paid according theire muſters,</p>
+            <p>That the beſt quarters be aſſigned to thoſe whoe shall be put in the frontier garrjſſons and that the Corne, meale, and mony be ſoe proportioned as that the places neare shall pay the meale and the remote the monny if it may be.</p>
+            <p>That the Chiefe officer or officers of theſe diuiſions reſ<g ref="char:EOLhyphen"/>pectiuelie be remoueable monethlie as the Councell or ſuch other authoritie as the Councell shall appointe in theire abſence shall thinke fitt or oftner if there be cauſe.</p>
+            <p>That once in every month the head quarter shall be relieued out of the neer quarters if need be,</p>
+            <p>That in the neere quarters the Companies &amp; troopes be daily exerciſed and in the head quarters, as often as may be, if the Weather ſerue and at leaſt twice a weeke.</p>
+            <p>That the muſter-maſter shall returne his muſter once per month vnto the councell, or ſuch as the ſaid Aſſemblie or Coun<g ref="char:EOLhyphen"/>cell shall appointe, as allſo the paymaſter his payments</p>
+            <p>That all &amp; ſingular the Captaines and Quartermaſters and other the Officers of the Army, shall deliuer in, a true liſt of theire Companies on paine of diſbandinge of the officer that shall giue in a falſe liſt,</p>
+            <p>That the ſaid muſter maſter &amp; paymaſter take the oathes of theire places before thei execute the ſame.</p>
+            <p>That the Country be required to bringe in prouiſion of hay, oates, and other accomodation vnto the ſaid head-quarters to be paid for, by the garriſſon after the rates hereafter eſtablished.</p>
+            <p>That the Comaunder of each of the ſaid diuiſions be requi<g ref="char:EOLhyphen"/>red as occaſion shall be offered to call together the ſaid diui<g ref="char:EOLhyphen"/>ſions either to defend theire quarters, or offend the Enemy
+<pb n="4" facs="tcp:34271:3"/>without expecting orders, and not to ſuffer the ſouldiers or Troopes to extorte in theire throughfares vpon paine of the losse of a monthes meanes &amp; ſatisfaction to the parties greeued, if redreſſe vpon Complaint be not made</p>
+            <p>That each Comaunder of a diuiſion shall haue power to execute with martiall Law, any ſouldiers, or Troopes of his partie, vnder the degree of an Enſigne, or Cornett, merritinge it and to ſuſpend from Commande any higher officer offen<g ref="char:EOLhyphen"/>dinge, Vntill the pleaſure of the Councell, or in theire abſence ſuch as they or the Aſſembly shall appointe bee made knowne, and that each Colonell shall haue power accordinge Martiall diſcipline to execute Martiall lawe vpon any of his regiment vnder the degree of an Enſigne, deſeruinge it &amp; the Comaunder in Chiefe of the artyllery is to haue power of martiall lawe over thoſe, vnder his Commaund.</p>
+            <p>That to preuent the dayly runninge away of ſouldiers from theire Coullours vnto other Companies, where they expect better pay, leſſe duty, or more impunity, any ſouldier or trooper ſo offending shall be punished, with death and to the end he may be found out, noe officer is to receaue any new ſouldier or trooper formerly inliſted, Without a paſſe of his officer vpon the penalty of forfeture of a moneths pay, and that martialls be appointed in euery County, to execute ſtraglers &amp; theeues.</p>
+            <p>That the Councell, or ſuch as they shall appointe, make it the peculiar charge of one of them, to ſee one of the diuiſions provided for, to ouerſee the muſters returned, take accompte of the payments vnto them made, &amp; ſettle all differences betweene the gariſons, and the Quarters, and the reſident Councell of this Prouince vpon matter of difficulty are to aſſiſt him.</p>
+            <p>That Commiſſioners be appointed in each County to ap<g ref="char:EOLhyphen"/>plot, Leauy, and bringe in, its proportion of the mayntenance of the Army, conſiſting of three actiue, honeſt, and vnderſtan<g ref="char:EOLhyphen"/>ding men, who are to ſitt conſtantly and ſerue for one Quar<g ref="char:EOLhyphen"/>ter of a yeare, at the expiration of which tyme others may be named to ſupply their places, and to haue for each of them foure shillings per diem and two shillings per diem to theire Clarke, for euery day they shall attend the execution of their Commiſſion, whoe shall be enabled to determine all differences betweene Land-Lord and tenant and ſettle all other differen<g ref="char:EOLhyphen"/>ces
+<pb n="5" facs="tcp:34271:3"/>concerning the Contributions, or Country Charges in their Counties reſpectiuely, &amp; all debts or treſpaſſes vnder five pound which Commiſſioners are to haue theire authority by Com<g ref="char:EOLhyphen"/>miſſion from the Councell, and to take their Oathes to applott the mayntenance of the Army, and other Charges equally, and indifferently without partiallity, loue, hatred, fauoure, or affec<g ref="char:EOLhyphen"/>tion vnto any perſon, or perſons, acording the vtmoſt of theire power and skill, before thy shall take vpon them the ſaid Im<g ref="char:EOLhyphen"/>ployment, &amp; are before any applotment to be made to ſummon the Gentry and freehoulders of theire County and heere what they will ſay concerning the manner thereof, before they shall applott the ſame, to the end that the more equality may be vſed, &amp; that the bearers of the ſaid Charge may know why the ſame is impoſed, and not be Charged more then the maintenance of their proportion shall come vnto, prouided that if the Coun<g ref="char:EOLhyphen"/>cell finde an eaſier Way for applotting the ſaid money &amp; bring<g ref="char:EOLhyphen"/>ing it in, that they may purſue ſuch a Courſe for the ſaueing of charge, and that the County of Kikenny or other countyes vpon ſufficient reaſons may haue more Commiſſioners, ſo the charge shall not exceede the allowance for three.</p>
+            <p>That the Co<g ref="char:cmbAbbrStroke">̄</g>maunder of each partie, or diuiſion, be required to preſerue the quarters ſet out for him, from incurſions of any ſtraglinge ſouldiers, idle boyes, or other perſons, and if he shall make default therin, the damadge of his quarter by any ſuch incurſions to be put in accompt on him, in ſoe much of the pay of his partie, which is to be aſſigned ouer to the partie greeued, and to that purpoſe a partie of the diuiſion is to garriſſon in the Countie ſett foorth for defence thereof, whoe are vpon notice to disarme, Commit, and bringe to Iuſtice, any perſon, companie, or Companies, who shall inuade theire quarters, &amp; they are allſo to obſerue the direction of the Councell, and Commiſſioners of the Countie, for punishinge delin-quents and other refractorie perſons</p>
+            <p>Vpon conſideration had of a report preſented from the Provinciall Aſſemblie of Leinſter ſettinge forth that the char<g ref="char:EOLhyphen"/>ge of the ciuill liſt, generall officers amunition, Armes, Traine of Artillerie, ſpies poaſts, rewards, penſions negotiations &amp; other publique charges should be caſt vp and ſubdeuided vpon the ſeuerall counties of the ſaid prouince, and that towards
+<pb n="6" facs="tcp:34271:4"/>The ſupport of the ſaid Charge, the enemyes eſtates, exciſe, and two parts of the Cleargy liueings, should be giuen vnto each County to be ſet by ſuch Commiſſioners, as the Councell should appoint, prouided that the ſame should not extend to auoide Leaſes made to banished men, or others, and that banished perſons should be preferred to the tenance of ſome of the ſaid Lands, It is for ſeuerall reaſons and eſpecially in re<g ref="char:EOLhyphen"/>gard the diuident of the ſeuerall Counties in the ſaid Prouince, was not ſetled With relation vnto the yearly value of Enemys-eſtates, exciſe or Church Liueings in them, thought fit and ſo ordered that the Councell shall iſſue Commiſſiones for regulating the Exciſe, for ſettinge of Enemyes Lands, and two parts of Cleargy Liueings, at a certaine rent, ouer and a<g ref="char:EOLhyphen"/>boue all Country Charges returneable by the firſt of May next. In the meane time, the rents iſſuing out of the ſaid tiethes or Enemyes eſtates, or the profitts of the exciſe are not to be diſpoſed, but by order of the Councell, and the Commhiſſio<g ref="char:EOLhyphen"/>ners Generall are forthwith to certify the Councell, of the particular of the charge of the ciuill liſt, amunition, Armes, and other requiſit publicke charges.</p>
+            <p>And wheareas ſeuerall receauers and accomptants haue bene often ſummonned, to paſſe theire accompts before the late Commiſſioners of the Reuenue, as alſo before the Com<g ref="char:EOLhyphen"/>miſſioners Generall of each Prouince, which receauours haue hitherto neglected to obey the ſaid Summons, notwithſtan<g ref="char:EOLhyphen"/>dinge ſeuerall compulſarys iſſued to compell them therevnto, It is therefore ordered, that vpon default of any receuer or Collector, hauing notice of this our order, which shall neglect paſſinge of his ſaid accompte within one month after notice proued thereof by the meſſenger of the Supreame, Councell, or whome the Aſſembly or they shall appointe in the ſaid pro<g ref="char:EOLhyphen"/>uince, wherein he is or shall be receauer, Collector or ac<g ref="char:EOLhyphen"/>comptant shall remayne charged for the ſumme, for which he shall ſo neglect to accompt, and the ſame shall be deemed, reputed, and eſteemed his owne proper dèbt, and that the ſame shall be aſſigned vnto the Armies, or any of them, or diſpoſed to the publicke vſe as the Councell shall thinke fitt.</p>
+            <p>That the ſaid Commiſſioners in the Counties shall as farr as poſſible they may auoyde ceſſing of Horſſe or Foote vpon
+<pb n="7" facs="tcp:34271:4"/>delinquents being deſtructiue, though hitherto a neceſſary re<g ref="char:EOLhyphen"/>medy for getting in the publicke dues, but that they may by Purſuiants or diſtreſſe compell payments, and by appoynt<g ref="char:EOLhyphen"/>tinge good Collectors and gi<g ref="char:cmbAbbrStroke">̄</g>ueing them reaſonable, allow<g ref="char:EOLhyphen"/>ances for their ſeruice, get in the publicke dues, and contribu<g ref="char:EOLhyphen"/>tions and that ſouldiers put upon delinquents shall take noe more but their pay according the eſtablishment and haue noe other pay whilſt they are vpon delinquents, and vpon paine of the loſſe of a months meanes, the officer and ſouldiers put vpon delinquents are not to ceſſe in his through-fare vpon any other perſon but the delinquents.</p>
+            <p>That for the Field ſeruice when the Army shall be called into one intire boddy the contributions of each County, shall be brought monethly before hand to the Generall receipte of the prouince, or to the pay-Maſter in the Field, as the Coun<g ref="char:EOLhyphen"/>cell or whome they shall appointe shall directe.</p>
+            <p>that the pay-maſters intertai<g ref="char:cmbAbbrStroke">̄</g>me<g ref="char:cmbAbbrStroke">̄</g>t be out of the pay of the ſoilder. That a courſe be taken whereby thoſe places which are fitt to be garriſoned may not the next yeare bee deſtituted of forrage, or prouiſion, and that places be in due tyme fixed vpon by the Councell, and Magazines there prouided out of tieth Corne. That the quarters be ſett out for any diuiſion or Garriſſon ſo as they may not be appropriated thereu<g ref="char:cmbAbbrStroke">̄</g>to, but that the Councell or thoſe intruſted by them in theire abſence from the Prouince may change them, and ſett out Quarters according deſert. It is ordered and Eſtablished that foureteene pence in money and 5. quartes of meale shall be a weekes pay for a foote ſoul<g ref="char:EOLhyphen"/>dier, or two shillings ſix pence in money at the election of the payers, and foure shillings in money a hoope of oates and 8. ſtones 3. quarters of hay, or ſtrawe for a Troopers pay per weeke being 20. pound per night or ſeauen shillings in money at the election of the Payer in lieu of his pay &amp; other demaunds in his Quarter beſides lodging and ſtabling.</p>
+            <p>That euery officer shall haue care to cauſe his Troupers and ſouldiers to keepe theire Armes cleane and fixed, and for euery vnfixed Muskett, the ſouldier to be checked with two pence euery Muster, and for euety vnfixed piſtoll the Trooper to be checked foure pence per Muſter, euery ſouldire wantinge a ſword shall be checked one penny per Muſter Which checks are to be depoſited to buye him a ſwoord &amp; euery Trooper wan<g ref="char:EOLunhyphen"/>ting
+<pb n="8" facs="tcp:34271:5"/>piſtolls foure pence per muſter, a short picke one penny per muſter &amp; the muſter-maſter is to haue his pay out of the checkes. That a pound of Powder per moneth be allowed to euery Company of horſſe, and foote, to exerciſe for falſe fires, and ſuch further proportion of powder for excerciſe as shall be by the Councell thought fitt. that euery officer take the Oath of Aſſo<g ref="char:EOLhyphen"/>tiation, and every common ſouldir to be true to his cullours. It is ordered and agreed, that noe officer of the Army shall haue a regiment of foote, and Troope of horſſe, nor any whoe hath a regiment or Troope of horſſe, a Company of foote.</p>
+            <p>It is ordered that rates of hay and oates shall be as followeth (viz.) 2 pence per night for hay, ſtraw and litter, 3 pence for a ſtable-pecke or gallon of oates.</p>
+            <p>It is ordered that of ſuch Lands pretéded to be waſte as are gra<g ref="char:EOLhyphen"/>zed by the proprietors, or Neighbours by conniuence or allow<g ref="char:EOLhyphen"/>ance of the proprietor, the Country Charges shall be anſwe<g ref="char:EOLhyphen"/>red by the proprietor if he findes not out the treſpaſſers to dis<g ref="char:EOLhyphen"/>charge the ſame.</p>
+            <p>It is ordered that all manner of Country charges shall be an<g ref="char:EOLhyphen"/>ſwered by billett, ceſſe, through-fare quartering, and leauies of lands, and putt in an accompt on the proprietor it he keepes the ſame waſte, and refuſeth to ſett the land for cuntrie Charges It is ordered that where conſiderable fallow is made in di<g ref="char:EOLhyphen"/>uerse parts of pretended waſte and ſo the graſſe eaten by the plough garrans in all the parcells ſo ploughed, &amp; the proprietor notwithſtanding will not hould, or beare more then as ſmall parcell, as twenty or thirty akers, and That the proprietors shall anſwer for the whole land, full Country charges and that, the ſame shall be enquired of, by Iury of the proper or a diacent barrony, the Iury to be vnintreſted perſons And the Commiſſi<g ref="char:EOLhyphen"/>oners of the Army in the reſpectiue Counties are to iſſue pre<g ref="char:EOLhyphen"/>cepts vnto the Sheiriffs for impanellinge a Iury in this behalfe.</p>
+            <closer>
+               <signed>
+                  <hi>Ex. per Phillippum Kear <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ie Gen. Com. Hiberniae Cler.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at Kilkenny in the yeare of our Lord 1647.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
